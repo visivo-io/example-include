@@ -1,5 +1,5 @@
 includes:
-  - path: traces.yml
+  - path: models.yml
 targets:
   - name: remote-target
     database: target/local.db
