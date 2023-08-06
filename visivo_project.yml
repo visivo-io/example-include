@@ -1,0 +1,6 @@
+includes:
+  - path: traces.yml
+targets:
+  - name: remote-target
+    database: target/local.db
+    type: sqlite
